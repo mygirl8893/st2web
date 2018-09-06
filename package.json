@@ -15,7 +15,7 @@
   },
   "repository": "stackstorm/st2web",
   "engines": {
-    "node": "10.4.1",
+    "node": "10.10.0",
     "npm": "6.1.0"
   },
   "browserify": {
